@@ -311,6 +311,8 @@ Abaixo, algumas telas adicionais que ilustram os módulos de administração e c
 |     <img src="./img/print_cadastro_modelo.png" width="100%">     | <img src="./img/print_cores.png" width="100%"> |
 | _Interface administrativa para importação de novas carrocerias._ |    _Detalhamento das cores por componente._    |
 
-A seguir, um breve vídeo demonstrando o funcionamento do Bentiviz:
+Para uma visualização objetiva, o vídeo abaixo destaca o núcleo operacional do sistema, apresentando o fluxo de pintura dinâmica, a emissão de ordens de serviço e a geração de relatórios técnicos:
+
+https://github.com/user-attachments/assets/75dcbc2f-a53f-4c77-b136-0940fa475e32
 
 <br>
