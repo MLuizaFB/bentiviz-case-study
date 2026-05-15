@@ -1,4 +1,7 @@
-# <img src="./img/BentivizLogo.ico" alt="Logo Bentiviz" height="45" align="absmiddle"> Bentiviz
+<h1 align="center">
+  <img src="./img/BentivizLogo.ico" alt="Logo Bentiviz" height="45" align="absmiddle">
+  Bentiviz
+</h1>
 
 <p align="center">
   <img src="./img/Animação.gif" alt="Demonstração da Tela de Pintura" width="80%">
@@ -10,7 +13,7 @@
 
 ### 🛡️ Nota de Privacidade
 
-O código-fonte deste projeto é restrito e não está disponível publicamente por se tratar de uma solução desenvolvida especificamente para uso operacional interno da fábrica **Carga Pesada**.
+O código-fonte deste projeto é restrito e não está disponível publicamente por se tratar de uma solução desenvolvida especificamente para uso operacional interno da fábrica **Carga Pesada**. Todos os dados de clientes (como CPFs, nomes e telefones) exibidos nas imagens e vídeos de demonstração são fictícios e foram gerados aleatoriamente apenas para fins de ilustração.
 
 ---
 
@@ -310,6 +313,8 @@ Abaixo, algumas telas adicionais que ilustram os módulos de administração e c
 | :--------------------------------------------------------------: | :--------------------------------------------: |
 |     <img src="./img/print_cadastro_modelo.png" width="100%">     | <img src="./img/print_cores.png" width="100%"> |
 | _Interface administrativa para importação de novas carrocerias._ |    _Detalhamento das cores por componente._    |
+
+<br>
 
 Para uma visualização objetiva, o vídeo abaixo destaca o núcleo operacional do sistema, apresentando o fluxo de pintura dinâmica, a emissão de ordens de serviço e a geração de relatórios técnicos:
 
